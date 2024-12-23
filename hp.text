@@ -1,3 +1,11 @@
+trojan://69230a60-c107-11ef-8126-1239d0255272@uk1.test3.net:443/turk.radicalization.ir?sni=turk.radicalization.ir#انگلیس-2
+trojan://816a8a10-c107-11ef-a26e-1239d0255272@fr1.test3.net:443/vodafone.com.tr?sni=vodafone.com.tr#فرانسه-2
+trojan://7ee93ab0-c107-11ef-bd73-1239d0255272@usa.test3.net:443/nima.nscl.ir?sni=nima.nscl.ir#آمریکا-2
+
+trojan://69230a60-c107-11ef-8126-1239d0255272@turk.radicalization.ir:443/?sni=uk1.test3.net&type=ws&host=uk1.test3.net&path=%2Fhowdy#انگلیس-2-2
+trojan://816a8a10-c107-11ef-a26e-1239d0255272@vodafone.com.tr:443/?sni=fr1.test3.net&type=ws&host=fr1.test3.net&path=%2Fhowdy#فرانسه-2-2
+trojan://7ee93ab0-c107-11ef-bd73-1239d0255272@nima.nscl.ir:443/?sni=usa.test3.net&type=ws&host=usa.test3.net&path=%2Fhowdy#آمریکا-2-2
+
 trojan://c7d636d0-c03b-11ef-8e34-1239d0255272@fr1.test3.net:443/vodafone.com.tr?sni=vodafone.com.tr#فرانسه-h1
 trojan://c5b79390-c03b-11ef-b9e7-1239d0255272@usa.test3.net:443/vodafone.com.tr?sni=vodafone.com.tr#آمریکا-h1
 trojan://c3fee5a0-c03b-11ef-a33a-1239d0255272@uk1.test3.net:443/vodafone.com.tr?sni=vodafone.com.tr#انگلیس-h1
